@@ -1,0 +1,1 @@
+A comprehensive overview of foundational concepts in generative AI as it applies small businesses and startups covering large language models, prompt engineering, retrieval augmented generation (RAG), AI Agents, fine-tuning, image generation, privacy, agi, asi, and AI adoption strategies. 
