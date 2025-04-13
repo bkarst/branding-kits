@@ -1,3 +1,5 @@
+I am making a course on AI and business. Put together a list of AI influencers that are potential affiliates of people who could potentially sell my course. Include a way of contacting them.
+
 TAG
 Only the educated will survive.
 
