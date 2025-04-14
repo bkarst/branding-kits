@@ -1,8 +1,10 @@
 Pedological Bias Inventory
 
-Pedagogical Bias Inventory is a survey that a student takes periodically, throughout their educational tenure, to measure the amount of political bias is present in the child’s curriculum and teacher. Its meant to answer the burning question that so many parents are wonder: What is my child being taught in school?
+Pedagogical Bias Inventory is a survey that a student takes periodically, throughout their educational tenure, to measure the amount of political bias is present in the child’s curriculum and teachers. Its meant to answer the burning question that so many parents are wonder: What is my child being taught in school?
 
 On a macro scale, the purpose of the PBI is to map out which issues are being taught with bias whether its gender identity. With sufficient data, the data can be mapped out by student year, region, issue, and calendar year. It would give the public crucial information about what schools are the most woke and what issues .
+
+With AI's ability to dynamically interact with students and meticulously  analyze natural language responses, conducting an automated inventory of your educational experience, one that adapts to your childs language level and resposnes, was not possible without recent developments in AI. 
 
 By Student Year
 By Geography (Region, Province, State, or Educational District, School)
@@ -11,12 +13,15 @@ Curriculum Teacher or Both
 
 Using anonymized macro data from the PBI, we will be able to tell, for instance, which areas have the most bias education regarding a specific issue in a specific year in a specific region. [Give Example]
 
-On a more personal level, the PBI is paid for by parents and administered by parents. Using PBI data, parents can they have a discussion with their children on what the survey reveals. 
+On a more personal level, the PBI is paid for by parents and accessible by parents. Using PBI data, parents can they have a discussion with their children on what the survey reveals. 
 
 Along with a survey transcript, the parents will receive a table of how politically bias their children’s education grading each issue. is perceived by their child in the following areas: Gender Identity, LGBTQ+ inclusion, critical race theory, systemic racism, sexually explicit material, unconscious bias
 
+Importantly, survey questions would adapt to grade level of child, the child's understanding of the issue, and with AI, the wording of each question would be able to adapt to the language level of the child. 
 
-Importantly, survey questions would adapt to grade level of child, and with AI, the wording of each question would be able to adapt to the language level of the child. 
+The student would rarely explicitly be asked about the issue. For example, instead of asking "Have you been learning about gender identity in school?" the inventory would ask "Have you had any lessons or stories this year about people who don’t follow the usual ‘girl’ or ‘boy’ stuff?" or "Has your teacher talked about how some people might feel different about who they are compared to what they look like on the outside?"
+
+The transcripts will be analyzed by AI, analyzing the questions and making quantitative evaluations on qualitative data (the transcript). There may be some consistancy issues involved but still it is just as consistant, if not more consistant than human experts analying transcripts and making quantitatevly judgements. These judgements may be averaged out over several models. 
 
 Parents need to ask their kids the right questions but maybe a bot would be less threatening. 
 
@@ -54,7 +59,7 @@ Followup Surveys:
 
 System Prompt for the AI: 
 
-In age-appropriate language, you are asking questions on behalf of a parent on what a child is learning at school. Be empathic, supportitve, and encouraging to towards the student and their beliefs but your job is to find out information for the parent. Be fun, humorous, and light-hearted when appropriate. Ask an initial question but dig deeper without steering them. Do not use language that supports these political issues in any way. Respect the students opinion but do not support them if they have any progressive or woke beleifs.
+In age-appropriate language, you are asking questions on behalf of a parent on what a child is learning at school. Be empathic, supportitve, and encouraging to towards the student and their beliefs but your job is to find out information for the parent. Be fun, humorous, and light-hearted when appropriate. Ask an initial question but dig deeper without steering them. Do not use language that supports these political issues in any way. Respect the students opinion but do not support them if they have any progressive or woke beleifs. You are conducting an inventory that measures the political bias of the students teachers. 
 
 Generic Line of Questioning:
 
@@ -64,3 +69,7 @@ Ask if they are being taught that issue.
 
 Ask if they are comfortable being taught that issue. 
 
+
+## Auditing the Entire Educational System
+
+Before AI, this would require thousands of qualified professionals quizzing students, analyzing transcripts, making qualitative judgements, and reporting statistics. An audit like this could take years. Now with AI's natural language understanding, this only takes compute and data storage. 
