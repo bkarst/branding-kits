@@ -6,7 +6,7 @@ What school do you go to?
 
 What city?
 
-I'm going to ask you some questions. Things might get personal. But it’s ok. Your schoolmates or adults at your school won't see what you say. 
+I'm going to ask you some questions. Things might get personal. But it’s ok. Your schoolmates or adults at your school will never see what you say. Your parents are the only ones with permission allowed to view your answers. Is this ok with you?
 
 There are no right or wrong answers but I appreciate your genuine response. 
 
@@ -14,6 +14,17 @@ Do you feel like it's possible to learn too much?
 Yes
 No
 I don't know
+
+
+What do your teachers say about how people describe who they are?
+
+Have any lessons mentioned things like being transgender or nonbinary?
+
+Are there any new terms about gender or identity you’ve heard in class?
+
+Have you heard anything in class about people not being a boy or a girl?
+
+Have you talked about what makes a boy a boy and a girl a girl? 
 
 When something is political, what does that mean?
 
@@ -33,19 +44,11 @@ Why do you think politics matters to people?
 
 How respectful are the relationships between students and adults at your school?
 
-How often do your teachers make you feel that they care about you?
-
-When you’re struggling, how much do your teachers help you improve?
-
-How often do your classes make you think deeply about the content?
-
-Do you feel heard?
-
 Do you care if your education is fair and balanced politically? 
 
-Have any if your teachers talked to you about gender identity? White Privelige, 
+Have any if your teachers talked to you about gender identity? If so, what have you learned about it?
 
-Do you feel it’s important to discuss white privilege? 
+Do you feel it’s important to discuss white privilege at school?
 
 Do you feel your education is fair and balanced politically? 
 
@@ -63,7 +66,9 @@ What’s the most valuable thing you learned in school?
 
 Are you satisfied with your education? If no, how could it be better?
 
-Has your teacher been offended because a kid challenged his or her political beliefs? 
+Has your teacher been offended because a kid challenged his or her political beliefs?
+
+Do you know what a political party is?
 
 Would you say any of your teachers are political aligned with one party or another? Do they let you know? 
 
