@@ -21,11 +21,11 @@ Importantly, survey questions would adapt to grade level of child, the child's u
 
 The student would rarely explicitly be asked about the issue. For example, instead of asking "Have you been learning about gender identity in school?" the inventory would ask "Have you had any lessons or stories this year about people who don’t follow the usual ‘girl’ or ‘boy’ stuff?" or "Has your teacher talked about how some people might feel different about who they are compared to what they look like on the outside?"
 
-The transcripts will be analyzed by AI, analyzing the questions and making quantitative evaluations on qualitative data (the transcript). There may be some consistancy issues involved but still it is just as consistant, if not more consistant than human experts analying transcripts and making quantitatevly judgements. These judgements may be averaged out over several models. 
+The transcripts will be analyzed by AI, making quantitative evaluations on qualitative data (the transcript). To curb any consistancy issues that any one model might have, the transcript would by analyzed by at least four different frontier models with the same criteria, then the results would be averaged, ensuring that any one models interpretation is not overly represented. Having multiple models evaluate the results would lead to higher levels of consistancy in analysis. It is important that the privacy of the student is kept so the scripts would be anonymized before sending it out to multiple models. 
 
 Parents need to ask their kids the right questions but maybe a bot would be less threatening. 
 
-Initial Survey:
+Outline for Initial Survey:
 
 1. Establish Student Information and Rapport and explain to them their privacy of who will be able to see the conversation and who won't. Their parents will but that's it. 
 2. Ask them their opinion on being asked these questions. Get it across what they are learning is important to your parents too. 
@@ -42,7 +42,7 @@ Initial Survey:
 Process information:
   Summarize the conversation and the students understanding of each topic. To be used in a previous summary. 
 
-Followup Surveys:
+Outline for Followup Surveys:
 
 1. Establish initial rapport. 
 2. Breifly review the important points that were talked about last time. 
