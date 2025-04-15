@@ -11,9 +11,9 @@ By Geography (Region, Province, State, or Educational District, School)
 By Issue (Gender Identity, LGBTQ+ inclusion, critical race theory, systemic racism, sexually explicit material, unconscious bias)
 Curriculum Teacher or Both 
 
-Using anonymized macro data from the PBI, we will be able to tell, for instance, which areas have the most bias education regarding a specific issue in a specific year in a specific region. [Give Example]
+Using anonymized macro data from the PBI, we will be able to determine which areas have the most bias education regarding a specific issue in a specific year in a specific region. [Give Example]
 
-On a more personal level, the PBI is paid for by parents and accessible by parents. Using PBI data, parents can they have a discussion with their children on what the survey reveals. 
+On a personal level, the PBI is paid for by parents and accessible by parents. Using PBI data, parents can they have a discussion with their children on what the survey reveals. 
 
 Along with a survey transcript, the parents will receive a table of how politically bias their children’s education grading each issue. is perceived by their child in the following areas: Gender Identity, LGBTQ+ inclusion, critical race theory, systemic racism, sexually explicit material, unconscious bias
 
@@ -24,6 +24,8 @@ The student would rarely explicitly be asked about the issue. For example, inste
 The transcripts will be analyzed by AI, making quantitative evaluations on qualitative data (the transcript). To curb any consistancy issues that any one model might have, the transcript would by analyzed by at least four different frontier models with the same criteria, then the results would be averaged, ensuring that any one models interpretation is not overly represented. Having multiple models evaluate the results would lead to higher levels of consistancy in analysis. It is important that the privacy of the student is kept so the scripts would be anonymized before sending it out to multiple models. 
 
 Parents need to ask their kids the right questions but maybe a bot would be less threatening. 
+
+The author's views on education is that parents should determine their child's educational exposure to politically bias teaching and enable themselves to react to it. Many parents, unfortunately are unaware or aware too late. 
 
 Outline for Initial Survey:
 
@@ -69,7 +71,11 @@ Ask if they are being taught that issue.
 
 Ask if they are comfortable being taught that issue. 
 
-
 ## Auditing the Entire Educational System
 
 Before AI, this would require thousands of qualified professionals quizzing students, analyzing transcripts, making qualitative judgements, and reporting statistics. An audit like this could take years. Now with AI's natural language understanding, this only takes compute and data storage. 
+
+### Age range for participants
+
+9 to 18 years. 
+
