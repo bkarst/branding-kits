@@ -49,9 +49,6 @@ Are there different ways to show what you've learned besides just taking tests?
 
 When you don't understand something in class, are the teachers good at explaining it differently?
 
-
-
-
 ### Gender studies
 
 Has your teacher talked about how some people might feel different about who they are compared to what they look like on the outside?
@@ -65,6 +62,9 @@ Did anyone at school talk about using words like 'they' instead of 'he' or 'she'
 Do you know any kids who want to be called something different than what others call them?
 
 ### LGBTQ+
+
+questions about the bathroom
+sports teams
 
 #### 9-year old
 
