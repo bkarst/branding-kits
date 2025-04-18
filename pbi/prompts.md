@@ -1,0 +1,1 @@
+Make a visually appealing graphic that highlights the above poll statistic. 

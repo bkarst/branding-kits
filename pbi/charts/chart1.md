@@ -11,3 +11,8 @@ Most voters (56%) believe public school boards do not respect the role of parent
 
 https://scottrasmussen.com/ed-transparency/?utm_source=chatgpt.com
 
+Parental Control Over Curriculum (Oct. 2021):
+An Echelon Insights poll found that 72% of registered voters believed parents of K-12 students should have "most or some" influence over what schools teach.
+
+https://www.federationforchildren.org/school-choice-polling/
+

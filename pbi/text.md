@@ -1,4 +1,4 @@
-Pedological Bias Inventory
+# Pedological Bias Inventory
 
 Pedagogical Bias Inventory is a survey that a student takes periodically, throughout their educational tenure, to measure the amount of political bias is present in the child’s curriculum and teachers. Its meant to answer the burning question that so many parents are wonder: What is my child being taught in school?
 
@@ -77,5 +77,4 @@ Before AI, this would require thousands of qualified professionals quizzing stud
 
 ### Age range for participants
 
-9 to 18 years. 
-
+9 to 18 years. This would be an ongoing relationship throughout the 9 years of k-12 education. 

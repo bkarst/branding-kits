@@ -42,9 +42,15 @@ Conversational Learning
 
 Market Opportunity
 
-Total addressable market (TAM)
-Serviceable available market (SAM)
-Market trends and growth potential
+The Southeast Asian English language learning market is expected to reach USD 5.5 billion by 2032, growing at a compound annual growth rate (CAGR) of 10% from 2025 to 2032.  
+
+Total addressable market (TAM):
+
+
+Serviceable available market (SAM):
+
+Market trends and growth potential:
+
 
 Business Model
 

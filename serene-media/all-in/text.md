@@ -5,4 +5,5 @@ Get comprehensive visual storytelling with our complete suite of photography and
 
 40+ total images across all categories, plus the edited one-minute video that incorporates footage from all aspects of the property.
 
-$695 USD
+Price: $695 USD
+

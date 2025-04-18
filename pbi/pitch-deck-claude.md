@@ -1,5 +1,5 @@
-# Pedagogical Bias Inventory (PBI)
-## Bringing transparency to education with AI
+# Prismatica
+### Bringing transparency to Education
 
 ---
 
@@ -8,8 +8,8 @@
 * Parents increasingly concerned about political bias in their children's education
 * Educational content has become a contentious, polarizing topic
 * No objective, scalable method to measure what's actually being taught
-* Stakeholders rely on anecdotal evidence and small-scale studies
 * Schools lack tools to demonstrate curriculum transparency
+* Parents lack data to show which schools most align with their beliefs
 
 ---
 
