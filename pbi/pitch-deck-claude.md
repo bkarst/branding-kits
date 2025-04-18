@@ -72,11 +72,12 @@ For each area, we evaluate:
 
 **B2C Revenue Streams:**
 * Individual parent subscriptions ($9.99/month or $99/year)
-* One-time comprehensive assessments ($49.95)
+* Provide Parents Anonymous Data on a Schools Pedological Bias to parents who want to make a school choice. 
 
 **B2B Revenue Streams:**
-* Parent Teacher Organization Discounts
+* Parents' Rights Organization Discounts
 * Customized anonymous reporting for educational organizations
+
 
 ---
 
