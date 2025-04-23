@@ -12,5 +12,3 @@ https://www.facebook.com/groups/ReadersandAuthorsPromotions/
 
 https://www.facebook.com/groups/FreeEbooksGroup/
 
-https://www.facebook.com/groups/1628347420712773/
-
